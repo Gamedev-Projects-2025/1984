@@ -1,5 +1,7 @@
 # 1984 Interactive Narrative Game
 
+##[Play the game here!](https://necrocracy.itch.io/1984)
+
 ## **Summary**
 
 Set in the oppressive dystopia of George Orwell's *1984*, this interactive narrative places you in the shoes of an unnamed Party member navigating the suffocating world of Oceania. Your choices determine how you survive—or don't—in this world ruled by fear, propaganda, and control. Each decision carries consequences, reflecting the harsh reality of living under the Party's watchful gaze. From mingling in Victory Square to visiting the haunting Chestnut Tree Café, the game offers a variety of locations to explore and moral dilemmas to confront, with multiple endings that range from quiet rebellion to ultimate betrayal.
