@@ -1,6 +1,6 @@
 # 1984 Interactive Narrative Game
 
-##[Play the game here!](https://necrocracy.itch.io/1984)
+## [Play the game here!](https://necrocracy.itch.io/1984)
 
 ## **Summary**
 
